@@ -1,2 +1,2 @@
-# rubaiyat-habib.github.io
-Personal Portfolio Website
+# rubaiyathabib.github.io
+Portfolio Website
